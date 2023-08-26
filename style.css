@@ -365,6 +365,7 @@ nav .fa-solid{
     #header {
         background-image:url("images1 (1).jpg")
     }
+    
     .header-text{
         margin-top:100%;
         font-size: 16px;
@@ -401,6 +402,42 @@ nav .fa-solid{
     .header-text h1{
      font-size: 16px;
     }
+
+
+#header video {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        z-index: -1;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     nav .fa-solid{
         display: block;
         font-size: 25px;
